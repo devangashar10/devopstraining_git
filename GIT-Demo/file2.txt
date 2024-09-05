@@ -6,7 +6,3 @@ added a line
 added line on local 
 addeded line on remote
 
-line added after stash
-
-line to ignore after stash
-
